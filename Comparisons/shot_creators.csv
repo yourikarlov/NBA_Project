@@ -1,0 +1,172 @@
+young_player,role_comp,cosine_similarity,euclidean_distance
+Brice Sensabaugh,Malik Monk,0.6879,0.276
+Brice Sensabaugh,Jordan Clarkson,0.3239,0.3832
+Brice Sensabaugh,Ty Jerome,0.2666,0.4078
+Brice Sensabaugh,Michael Porter Jr.,0.2053,0.4585
+Brice Sensabaugh,Caris LeVert,0.1466,0.3874
+Brice Sensabaugh,CJ McCollum,0.1449,0.4443
+Brice Sensabaugh,Dennis Schröder,0.1112,0.5727
+Brice Sensabaugh,P.J. Washington,0.0913,0.4338
+Brice Sensabaugh,John Collins,0.0638,0.503
+Brice Sensabaugh,Khris Middleton,0.0564,0.5288
+Brice Sensabaugh,Miles Bridges,0.0149,0.3496
+Brice Sensabaugh,Nickeil Alexander-Walker,0.0111,0.3786
+Brice Sensabaugh,Fred VanVleet,-0.0998,0.5165
+Brice Sensabaugh,Dillon Brooks,-0.1917,0.412
+Brice Sensabaugh,Cameron Johnson,-0.202,0.64
+Brice Sensabaugh,Mikal Bridges,-0.4436,0.5877
+Brice Sensabaugh,Tobias Harris,-0.4636,0.5035
+Brice Sensabaugh,Jerami Grant,-0.5501,0.5425
+Brice Sensabaugh,Aaron Gordon,-0.6233,0.467
+GG Jackson,Miles Bridges,0.6429,0.2026
+GG Jackson,Malik Monk,0.3918,0.365
+GG Jackson,Jordan Clarkson,0.2759,0.3788
+GG Jackson,P.J. Washington,0.2308,0.3803
+GG Jackson,Michael Porter Jr.,0.2228,0.4381
+GG Jackson,John Collins,0.165,0.4601
+GG Jackson,Nickeil Alexander-Walker,0.1584,0.3236
+GG Jackson,Caris LeVert,0.0823,0.3775
+GG Jackson,Dillon Brooks,0.0039,0.3494
+GG Jackson,Jerami Grant,-0.01,0.4135
+GG Jackson,Cameron Johnson,-0.0171,0.5761
+GG Jackson,CJ McCollum,-0.0182,0.4614
+GG Jackson,Ty Jerome,-0.1236,0.4779
+GG Jackson,Dennis Schröder,-0.1635,0.6223
+GG Jackson,Fred VanVleet,-0.2095,0.5157
+GG Jackson,Aaron Gordon,-0.2456,0.3801
+GG Jackson,Tobias Harris,-0.2615,0.4385
+GG Jackson,Mikal Bridges,-0.325,0.5364
+GG Jackson,Khris Middleton,-0.396,0.6074
+Jabari Smith Jr.,Cameron Johnson,0.7484,0.3397
+Jabari Smith Jr.,Mikal Bridges,0.7411,0.2948
+Jabari Smith Jr.,Jerami Grant,0.715,0.2975
+Jabari Smith Jr.,P.J. Washington,0.5744,0.3614
+Jabari Smith Jr.,Dillon Brooks,0.5263,0.3616
+Jabari Smith Jr.,Michael Porter Jr.,0.3617,0.4738
+Jabari Smith Jr.,Aaron Gordon,0.3248,0.4097
+Jabari Smith Jr.,Tobias Harris,0.315,0.4319
+Jabari Smith Jr.,Nickeil Alexander-Walker,0.2862,0.4225
+Jabari Smith Jr.,Miles Bridges,0.2797,0.4132
+Jabari Smith Jr.,John Collins,0.1429,0.5552
+Jabari Smith Jr.,Fred VanVleet,-0.1773,0.6267
+Jabari Smith Jr.,Ty Jerome,-0.208,0.6168
+Jabari Smith Jr.,Khris Middleton,-0.5279,0.7671
+Jabari Smith Jr.,Caris LeVert,-0.5353,0.632
+Jabari Smith Jr.,CJ McCollum,-0.6465,0.7251
+Jabari Smith Jr.,Malik Monk,-0.6976,0.7382
+Jabari Smith Jr.,Dennis Schröder,-0.7369,0.8834
+Jabari Smith Jr.,Jordan Clarkson,-0.7634,0.7321
+Jaden Hardy,Malik Monk,0.9037,0.1669
+Jaden Hardy,Jordan Clarkson,0.6714,0.2686
+Jaden Hardy,Dennis Schröder,0.5688,0.4293
+Jaden Hardy,Caris LeVert,0.4589,0.3057
+Jaden Hardy,CJ McCollum,0.4526,0.3562
+Jaden Hardy,Khris Middleton,0.3125,0.4564
+Jaden Hardy,Fred VanVleet,0.2754,0.4202
+Jaden Hardy,Nickeil Alexander-Walker,0.1614,0.3456
+Jaden Hardy,Ty Jerome,0.0477,0.46
+Jaden Hardy,Dillon Brooks,-0.0928,0.3907
+Jaden Hardy,Michael Porter Jr.,-0.1543,0.5438
+Jaden Hardy,Miles Bridges,-0.1547,0.3707
+Jaden Hardy,P.J. Washington,-0.1595,0.4857
+Jaden Hardy,John Collins,-0.3942,0.6037
+Jaden Hardy,Aaron Gordon,-0.4835,0.4423
+Jaden Hardy,Cameron Johnson,-0.5811,0.7204
+Jaden Hardy,Tobias Harris,-0.6366,0.5275
+Jaden Hardy,Jerami Grant,-0.6923,0.562
+Jaden Hardy,Mikal Bridges,-0.8899,0.6654
+Jarace Walker,Nickeil Alexander-Walker,0.7967,0.2068
+Jarace Walker,P.J. Washington,0.7191,0.2544
+Jarace Walker,Malik Monk,0.4217,0.3848
+Jarace Walker,Fred VanVleet,0.2617,0.4446
+Jarace Walker,Caris LeVert,0.192,0.4017
+Jarace Walker,Dillon Brooks,0.1261,0.3834
+Jarace Walker,Dennis Schröder,0.0886,0.5958
+Jarace Walker,Ty Jerome,0.0803,0.4782
+Jarace Walker,Cameron Johnson,0.0358,0.5993
+Jarace Walker,Aaron Gordon,0.0217,0.3966
+Jarace Walker,Mikal Bridges,-0.067,0.5316
+Jarace Walker,Miles Bridges,-0.0731,0.3953
+Jarace Walker,Michael Porter Jr.,-0.1267,0.5657
+Jarace Walker,Khris Middleton,-0.1365,0.6
+Jarace Walker,Jerami Grant,-0.1673,0.4989
+Jarace Walker,John Collins,-0.2973,0.6143
+Jarace Walker,Jordan Clarkson,-0.3663,0.5715
+Jarace Walker,CJ McCollum,-0.5955,0.6351
+Jarace Walker,Tobias Harris,-0.6664,0.5709
+Jared McCain,Nickeil Alexander-Walker,0.5632,0.2019
+Jared McCain,P.J. Washington,0.479,0.3009
+Jared McCain,Cameron Johnson,0.428,0.4595
+Jared McCain,Fred VanVleet,0.3766,0.3649
+Jared McCain,Dillon Brooks,0.3561,0.2409
+Jared McCain,Miles Bridges,0.32,0.2181
+Jared McCain,Michael Porter Jr.,0.2284,0.4139
+Jared McCain,Ty Jerome,0.2105,0.3765
+Jared McCain,Malik Monk,0.0931,0.4054
+Jared McCain,Jerami Grant,0.0365,0.3628
+Jared McCain,Caris LeVert,0.0023,0.3488
+Jared McCain,Mikal Bridges,-0.0284,0.4381
+Jared McCain,Jordan Clarkson,-0.1907,0.4332
+Jared McCain,Aaron Gordon,-0.2846,0.3266
+Jared McCain,CJ McCollum,-0.3473,0.4749
+Jared McCain,John Collins,-0.3477,0.521
+Jared McCain,Tobias Harris,-0.3608,0.3987
+Jared McCain,Dennis Schröder,-0.3856,0.6211
+Jared McCain,Khris Middleton,-0.6563,0.5954
+Jonathan Kuminga,John Collins,0.4819,0.4028
+Jonathan Kuminga,Jordan Clarkson,0.4049,0.3905
+Jonathan Kuminga,Caris LeVert,0.3881,0.3664
+Jonathan Kuminga,Tobias Harris,0.2596,0.3996
+Jonathan Kuminga,Ty Jerome,0.2198,0.4552
+Jonathan Kuminga,Miles Bridges,0.211,0.3693
+Jonathan Kuminga,Dennis Schröder,0.1785,0.5796
+Jonathan Kuminga,Malik Monk,0.1387,0.4841
+Jonathan Kuminga,CJ McCollum,0.0857,0.4972
+Jonathan Kuminga,Khris Middleton,0.0626,0.5612
+Jonathan Kuminga,P.J. Washington,0.058,0.4828
+Jonathan Kuminga,Aaron Gordon,-0.0453,0.4297
+Jonathan Kuminga,Mikal Bridges,-0.0639,0.5478
+Jonathan Kuminga,Dillon Brooks,-0.1509,0.4569
+Jonathan Kuminga,Jerami Grant,-0.1669,0.5182
+Jonathan Kuminga,Michael Porter Jr.,-0.341,0.6354
+Jonathan Kuminga,Nickeil Alexander-Walker,-0.4468,0.5107
+Jonathan Kuminga,Cameron Johnson,-0.5201,0.7612
+Jonathan Kuminga,Fred VanVleet,-0.6362,0.681
+Ousmane Dieng,Nickeil Alexander-Walker,0.7822,0.255
+Ousmane Dieng,P.J. Washington,0.627,0.32
+Ousmane Dieng,Fred VanVleet,0.4633,0.4057
+Ousmane Dieng,Dillon Brooks,0.4624,0.3511
+Ousmane Dieng,Caris LeVert,0.267,0.4219
+Ousmane Dieng,Aaron Gordon,0.2161,0.4048
+Ousmane Dieng,Dennis Schröder,0.1254,0.6123
+Ousmane Dieng,Malik Monk,0.0869,0.519
+Ousmane Dieng,Ty Jerome,0.0285,0.5295
+Ousmane Dieng,Cameron Johnson,0.0239,0.6339
+Ousmane Dieng,Mikal Bridges,0.0196,0.5468
+Ousmane Dieng,Jerami Grant,0.0171,0.4991
+Ousmane Dieng,Khris Middleton,-0.1499,0.6415
+Ousmane Dieng,Miles Bridges,-0.1847,0.4623
+Ousmane Dieng,Jordan Clarkson,-0.3583,0.6153
+Ousmane Dieng,Michael Porter Jr.,-0.3743,0.6678
+Ousmane Dieng,Tobias Harris,-0.4077,0.5733
+Ousmane Dieng,CJ McCollum,-0.5193,0.6674
+Ousmane Dieng,John Collins,-0.5868,0.726
+Shaedon Sharpe,CJ McCollum,0.7026,0.2692
+Shaedon Sharpe,Jordan Clarkson,0.6709,0.2632
+Shaedon Sharpe,Malik Monk,0.5449,0.3155
+Shaedon Sharpe,Dennis Schröder,0.5268,0.4471
+Shaedon Sharpe,Khris Middleton,0.4997,0.3919
+Shaedon Sharpe,Fred VanVleet,0.257,0.3963
+Shaedon Sharpe,Caris LeVert,0.1575,0.337
+Shaedon Sharpe,Michael Porter Jr.,-0.0194,0.4719
+Shaedon Sharpe,Nickeil Alexander-Walker,-0.0639,0.3307
+Shaedon Sharpe,Dillon Brooks,-0.0698,0.3289
+Shaedon Sharpe,Aaron Gordon,-0.1559,0.3314
+Shaedon Sharpe,Miles Bridges,-0.1971,0.3125
+Shaedon Sharpe,Tobias Harris,-0.3067,0.4123
+Shaedon Sharpe,John Collins,-0.3472,0.54
+Shaedon Sharpe,Jerami Grant,-0.3752,0.4471
+Shaedon Sharpe,Ty Jerome,-0.3849,0.4952
+Shaedon Sharpe,Cameron Johnson,-0.4779,0.6423
+Shaedon Sharpe,P.J. Washington,-0.5702,0.5004
+Shaedon Sharpe,Mikal Bridges,-0.8012,0.5801

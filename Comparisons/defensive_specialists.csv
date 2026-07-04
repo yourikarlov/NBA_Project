@@ -1,0 +1,92 @@
+young_player,role_comp,cosine_similarity,euclidean_distance
+Anthony Black,Dillon Brooks,0.5142,0.4138
+Anthony Black,Alex Caruso,0.4121,0.2639
+Anthony Black,Matisse Thybulle,0.2676,0.5067
+Anthony Black,Marcus Smart,0.209,0.3244
+Anthony Black,Kelly Oubre Jr.,0.161,0.2223
+Anthony Black,Gary Payton II,0.1028,0.5107
+Anthony Black,Nickeil Alexander-Walker,0.0624,0.2381
+Anthony Black,Derrick Jones Jr.,0.0343,0.3516
+Anthony Black,Landry Shamet,0.0083,0.5032
+Anthony Black,Derrick White,-0.233,0.3503
+Anthony Black,Mikal Bridges,-0.4458,0.4869
+Anthony Black,Aaron Gordon,-0.5507,0.4783
+Anthony Black,Josh Hart,-0.5727,0.4933
+Ausar Thompson,Gary Payton II,0.7347,0.4127
+Ausar Thompson,Alex Caruso,0.6215,0.4789
+Ausar Thompson,Matisse Thybulle,0.5103,0.5616
+Ausar Thompson,Derrick Jones Jr.,0.5092,0.5178
+Ausar Thompson,Kelly Oubre Jr.,0.36,0.5617
+Ausar Thompson,Josh Hart,0.1245,0.6756
+Ausar Thompson,Aaron Gordon,0.0183,0.7048
+Ausar Thompson,Derrick White,-0.1484,0.7018
+Ausar Thompson,Marcus Smart,-0.1906,0.7334
+Ausar Thompson,Dillon Brooks,-0.2946,0.8658
+Ausar Thompson,Mikal Bridges,-0.5766,0.8947
+Ausar Thompson,Nickeil Alexander-Walker,-0.8586,0.7746
+Ausar Thompson,Landry Shamet,-0.9678,1.0742
+Bilal Coulibaly,Aaron Gordon,0.4826,0.3336
+Bilal Coulibaly,Derrick White,0.3866,0.2831
+Bilal Coulibaly,Kelly Oubre Jr.,0.32,0.2391
+Bilal Coulibaly,Mikal Bridges,0.3078,0.3931
+Bilal Coulibaly,Matisse Thybulle,0.2561,0.5151
+Bilal Coulibaly,Derrick Jones Jr.,0.2157,0.3487
+Bilal Coulibaly,Nickeil Alexander-Walker,0.1173,0.2747
+Bilal Coulibaly,Josh Hart,0.0607,0.4367
+Bilal Coulibaly,Alex Caruso,-0.0382,0.3676
+Bilal Coulibaly,Marcus Smart,-0.0792,0.4019
+Bilal Coulibaly,Landry Shamet,-0.4001,0.603
+Bilal Coulibaly,Gary Payton II,-0.4033,0.6247
+Bilal Coulibaly,Dillon Brooks,-0.6275,0.6308
+Dominick Barlow,Derrick Jones Jr.,0.8932,0.3768
+Dominick Barlow,Aaron Gordon,0.468,0.568
+Dominick Barlow,Gary Payton II,0.4383,0.6145
+Dominick Barlow,Derrick White,0.3106,0.6108
+Dominick Barlow,Kelly Oubre Jr.,0.2718,0.6125
+Dominick Barlow,Josh Hart,0.1265,0.7036
+Dominick Barlow,Matisse Thybulle,0.0723,0.7955
+Dominick Barlow,Alex Caruso,0.0544,0.6838
+Dominick Barlow,Dillon Brooks,-0.2214,0.871
+Dominick Barlow,Mikal Bridges,-0.4194,0.8829
+Dominick Barlow,Nickeil Alexander-Walker,-0.5921,0.7674
+Dominick Barlow,Landry Shamet,-0.6661,1.0221
+Dominick Barlow,Marcus Smart,-0.6907,0.8884
+Dyson Daniels,Josh Hart,0.4442,0.3927
+Dyson Daniels,Alex Caruso,0.4279,0.3452
+Dyson Daniels,Matisse Thybulle,0.3867,0.5067
+Dyson Daniels,Gary Payton II,0.2958,0.5216
+Dyson Daniels,Marcus Smart,0.2839,0.4021
+Dyson Daniels,Kelly Oubre Jr.,0.2025,0.363
+Dyson Daniels,Mikal Bridges,0.0532,0.5182
+Dyson Daniels,Aaron Gordon,-0.0233,0.5219
+Dyson Daniels,Derrick Jones Jr.,-0.2637,0.5355
+Dyson Daniels,Nickeil Alexander-Walker,-0.43,0.4679
+Dyson Daniels,Landry Shamet,-0.4881,0.7205
+Dyson Daniels,Derrick White,-0.5053,0.5507
+Dyson Daniels,Dillon Brooks,-0.5196,0.7178
+Jeremy Sochan,Kelly Oubre Jr.,0.6539,0.3275
+Jeremy Sochan,Josh Hart,0.595,0.3653
+Jeremy Sochan,Aaron Gordon,0.5355,0.3858
+Jeremy Sochan,Gary Payton II,0.467,0.4817
+Jeremy Sochan,Dillon Brooks,0.2778,0.5357
+Jeremy Sochan,Derrick Jones Jr.,0.2621,0.4567
+Jeremy Sochan,Alex Caruso,-0.2098,0.5552
+Jeremy Sochan,Derrick White,-0.2372,0.5582
+Jeremy Sochan,Marcus Smart,-0.3634,0.6127
+Jeremy Sochan,Landry Shamet,-0.3731,0.7465
+Jeremy Sochan,Matisse Thybulle,-0.4619,0.8092
+Jeremy Sochan,Nickeil Alexander-Walker,-0.4685,0.5376
+Jeremy Sochan,Mikal Bridges,-0.6313,0.7401
+Peyton Watson,Derrick Jones Jr.,0.8841,0.3392
+Peyton Watson,Derrick White,0.7353,0.4267
+Peyton Watson,Aaron Gordon,0.4087,0.5553
+Peyton Watson,Matisse Thybulle,0.3263,0.6493
+Peyton Watson,Kelly Oubre Jr.,0.0629,0.6077
+Peyton Watson,Alex Caruso,0.0385,0.6458
+Peyton Watson,Mikal Bridges,0.0223,0.7054
+Peyton Watson,Gary Payton II,-0.0414,0.7911
+Peyton Watson,Nickeil Alexander-Walker,-0.1882,0.6544
+Peyton Watson,Josh Hart,-0.2767,0.7928
+Peyton Watson,Dillon Brooks,-0.4923,0.9174
+Peyton Watson,Landry Shamet,-0.5593,0.9469
+Peyton Watson,Marcus Smart,-0.5792,0.8179

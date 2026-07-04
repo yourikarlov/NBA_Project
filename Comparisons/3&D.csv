@@ -1,0 +1,57 @@
+young_player,role_comp,cosine_similarity,euclidean_distance
+Ja'Kobe Walter,Alex Caruso,0.6458,0.3278
+Ja'Kobe Walter,Royce O'Neale,0.6279,0.2646
+Ja'Kobe Walter,Matisse Thybulle,0.3446,0.5552
+Ja'Kobe Walter,Duncan Robinson,0.0918,0.5632
+Ja'Kobe Walter,Landry Shamet,0.0341,0.4336
+Ja'Kobe Walter,Mikal Bridges,-0.0205,0.5609
+Ja'Kobe Walter,Nickeil Alexander-Walker,-0.0359,0.3885
+Ja'Kobe Walter,Grayson Allen,-0.0917,0.5272
+Ja'Kobe Walter,Donte DiVincenzo,-0.1358,0.4029
+Ja'Kobe Walter,Cameron Johnson,-0.1476,0.4754
+Ja'Kobe Walter,Max Strus,-0.166,0.4678
+Ja'Kobe Walter,Marcus Smart,-0.1903,0.6763
+Ja'Kobe Walter,Tim Hardaway Jr.,-0.4232,0.5947
+Ja'Kobe Walter,Derrick White,-0.67,0.6633
+Jaylen Wells,Tim Hardaway Jr.,0.782,0.2332
+Jaylen Wells,Marcus Smart,0.55,0.4412
+Jaylen Wells,Max Strus,0.3315,0.3516
+Jaylen Wells,Nickeil Alexander-Walker,0.3218,0.321
+Jaylen Wells,Donte DiVincenzo,0.1971,0.3429
+Jaylen Wells,Landry Shamet,0.1908,0.3923
+Jaylen Wells,Derrick White,0.1698,0.465
+Jaylen Wells,Duncan Robinson,-0.1189,0.6166
+Jaylen Wells,Mikal Bridges,-0.1639,0.5928
+Jaylen Wells,Cameron Johnson,-0.2167,0.4834
+Jaylen Wells,Grayson Allen,-0.2194,0.5516
+Jaylen Wells,Alex Caruso,-0.4171,0.6334
+Jaylen Wells,Royce O'Neale,-0.5112,0.5039
+Jaylen Wells,Matisse Thybulle,-0.5324,0.7982
+Max Christie,Tim Hardaway Jr.,0.7341,0.2501
+Max Christie,Cameron Johnson,0.514,0.2733
+Max Christie,Derrick White,0.3813,0.3774
+Max Christie,Grayson Allen,0.3722,0.3701
+Max Christie,Mikal Bridges,0.3244,0.4347
+Max Christie,Landry Shamet,0.2862,0.3278
+Max Christie,Nickeil Alexander-Walker,0.1452,0.2973
+Max Christie,Max Strus,0.0473,0.3704
+Max Christie,Duncan Robinson,-0.0386,0.5592
+Max Christie,Donte DiVincenzo,-0.0544,0.3267
+Max Christie,Marcus Smart,-0.0787,0.6063
+Max Christie,Royce O'Neale,-0.6949,0.4707
+Max Christie,Alex Caruso,-0.7325,0.6389
+Max Christie,Matisse Thybulle,-0.7352,0.7862
+Ryan Dunn,Alex Caruso,0.6897,0.4664
+Ryan Dunn,Matisse Thybulle,0.6596,0.5058
+Ryan Dunn,Nickeil Alexander-Walker,0.6524,0.5424
+Ryan Dunn,Marcus Smart,0.6326,0.5123
+Ryan Dunn,Derrick White,0.3215,0.6359
+Ryan Dunn,Royce O'Neale,0.1493,0.6542
+Ryan Dunn,Max Strus,-0.1192,0.7286
+Ryan Dunn,Mikal Bridges,-0.1397,0.8298
+Ryan Dunn,Tim Hardaway Jr.,-0.2872,0.828
+Ryan Dunn,Donte DiVincenzo,-0.2905,0.7169
+Ryan Dunn,Duncan Robinson,-0.4959,0.9779
+Ryan Dunn,Landry Shamet,-0.6549,0.8576
+Ryan Dunn,Cameron Johnson,-0.8882,0.9105
+Ryan Dunn,Grayson Allen,-0.9184,1.0

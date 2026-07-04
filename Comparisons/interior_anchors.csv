@@ -1,0 +1,37 @@
+young_player,role_comp,cosine_similarity,euclidean_distance
+Adem Bona,Daniel Gafford,0.7837,0.1793
+Adem Bona,Luke Kornet,0.6197,0.216
+Adem Bona,Mitchell Robinson,0.6065,0.3073
+Adem Bona,Robert Williams III,0.4314,0.2979
+Adem Bona,Ivica Zubac,0.1349,0.3333
+Adem Bona,Isaiah Hartenstein,0.0462,0.3148
+Adem Bona,Brook Lopez,-0.0778,0.4362
+Adem Bona,Naz Reid,-0.1596,0.4066
+Adem Bona,Jusuf Nurkić,-0.3592,0.4126
+Adem Bona,Andre Drummond,-0.4234,0.5472
+Adem Bona,Al Horford,-0.5252,0.532
+Adem Bona,Nikola Vučević,-0.8071,0.5616
+Dereck Lively II,Daniel Gafford,0.9735,0.067
+Dereck Lively II,Robert Williams III,0.6163,0.2581
+Dereck Lively II,Mitchell Robinson,0.6155,0.3086
+Dereck Lively II,Isaiah Hartenstein,0.4348,0.2712
+Dereck Lively II,Ivica Zubac,0.3382,0.313
+Dereck Lively II,Luke Kornet,0.182,0.3395
+Dereck Lively II,Andre Drummond,-0.1464,0.5163
+Dereck Lively II,Jusuf Nurkić,-0.2479,0.4229
+Dereck Lively II,Brook Lopez,-0.4077,0.5239
+Dereck Lively II,Naz Reid,-0.4512,0.4835
+Dereck Lively II,Al Horford,-0.7485,0.5995
+Dereck Lively II,Nikola Vučević,-0.8087,0.5935
+Yves Missi,Ivica Zubac,0.4767,0.2477
+Yves Missi,Luke Kornet,0.4388,0.2489
+Yves Missi,Brook Lopez,0.2748,0.3501
+Yves Missi,Al Horford,0.0555,0.4098
+Yves Missi,Naz Reid,0.0406,0.3551
+Yves Missi,Mitchell Robinson,-0.0712,0.466
+Yves Missi,Daniel Gafford,-0.0767,0.3816
+Yves Missi,Robert Williams III,-0.0927,0.3959
+Yves Missi,Nikola Vučević,-0.1024,0.4262
+Yves Missi,Andre Drummond,-0.2392,0.4973
+Yves Missi,Isaiah Hartenstein,-0.2816,0.3434
+Yves Missi,Jusuf Nurkić,-0.3549,0.3931
