@@ -24,8 +24,8 @@ Determine the statistical profile of young players by comparing them to some of 
 
 ## Learn more
 
-- **[clustering.md](clustering.md)**: how players are grouped into archetypes (features, K-means setup, cluster quality).
-- **[player_comps.md](player_comps.md)**: how young players are matched to role players (standardization, weighting, similarity metrics, results).
+- **[clustering.md](https://github.com/yourikarlov/NBA_Project/blob/main/Clustering/clustering.md)**: how players are grouped into archetypes (features, K-means setup, cluster quality).
+- **[player_comps.md](https://github.com/yourikarlov/NBA_Project/blob/main/Comparisons/player_comps.md)**: how young players are matched to role players (standardization, weighting, similarity metrics, results).
 
 ## Technologies
 
